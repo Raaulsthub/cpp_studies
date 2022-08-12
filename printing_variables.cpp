@@ -38,6 +38,8 @@ int main() {
     cout << "Birth year is " << BIRTH_YEAR <<endl;
     
     // CASTING
-    
+    cout << (int) 3.14 << endl;
+    cout << (double) 3/2 << endl;
+
     return 0;
 }
